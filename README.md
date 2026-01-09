@@ -1,1 +1,2 @@
 # diabetes-prediction
+Designed and implemented a machine learning–based system to predict the likelihood of diabetes using patient health parameters such as glucose level, BMI, age, blood pressure, and insulin levels. Applied data preprocessing, feature selection, and model training techniques to improve prediction accuracy. Evaluated model performance using standard metrics and presented results through clear visualizations to support early diagnosis and decision-making.
